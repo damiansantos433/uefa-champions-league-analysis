@@ -45,4 +45,4 @@ The dataset used is `UEFA_Champions_League_2004-2021.csv`, which contains match-
 
 ## Notes
 
-This project was completed as a final project for an Advanced Python and Data Analysis course. The topic was self-chosen based on a personal interest in soccer and the UEFA Champions League.
+This project was completed as a final project for an Advanced Python and Data Analysis course. The topic was self-chosen based on a personal interest in soccer and the UEFA Champions League. The project was developed collaboratively with my twin brother.
